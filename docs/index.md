@@ -4,18 +4,24 @@
 본 문서는 카카오페이 혜택플러스(포인트 충전소) 연동을 하기 위한 방법을 설명하고 있습니다.  
 
 ## 1. 회원가입
-티앤케이팩토리 사이트에 회원가입 및 계정등록을 합니다.
+티앤케이팩토리([https://www.tnkfactory.com](https://www.tnkfactory.com))사이트에 접속 하여 회원가입 및 계정등록을 합니다.
+
 ![img](https://cdn4.tnkfactory.com/tnk/shop/12341.jpg)
 
 ## 2. 앱등록 및 매체등록
 가입한 아이디로 로그인을 합니다. 로그인 후 퍼블리셔 > Incentive를 선택합니다.  
+
 ![img](https://cdn4.tnkfactory.com/tnk/shop/12342.jpg)
+
+
 좌측 메뉴 중 앱관리를 선택하고 앱추가 버튼을 누르고 앱을 등록합니다.  
 앱 등록시 플랫폼은 Web으로 선택하고, 카테고리 우측의 선택 화면에서 KakaoPay(Pub)를 선택합니다.  
+
 ![img](https://cdn4.tnkfactory.com/tnk/shop/12340.jpg)
 
 앱 등록이 끝나면 매체등록 버튼을 누릅니다.  
 이때 포인트 전환비율만 설정하고 저장을 누릅니다. (다른 설정값은 기본 값으로 두시면 됩니다.)  
+
 ![img](https://cdn4.tnkfactory.com/tnk/shop/12344.jpg)
 
 이후 저희 담당자에게 연락하면 귀사 사이트를 카카오페이측에 확인 요청을 합니다.   
