@@ -33,6 +33,11 @@ https://api2.tnkfactory.com/tnk/cpp.weboff.main?app_id={app_id}&web_yn=Y
 | --- | --- | --- | --- |
 | {app_id} | 매체 APP ID | string(32) | 매체별로 고정값(상수) 이다. (TNK 대시보드에서 확인 - App ID) |
 
+배너이미지
+- 아이콘
+- 띠배너
+- 정사각형
+  
 
 ## 4. 테스트
 배너 게제 전 위의 URL을 통해 광고에 참여하고, 카카오페이 포인트가 정상적으로 적립되는지 확인합니다.  
