@@ -30,7 +30,7 @@
 ## 3. 배너 설정
 카카오페이측에서 승인이 된 이후에는 귀사 사이트에 배너를 게제하고 연결 URL은 다음과 같이 설정합니다.  
 
-혜택플러스 모바일 웹 충전소 접속 URL
+- 혜택플러스 모바일 웹 충전소 접속 URL
 ```
 https://api2.tnkfactory.com/tnk/cpp.weboff.main?app_id={app_id}&web_yn=Y
 ```
