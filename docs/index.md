@@ -40,11 +40,25 @@ https://api2.tnkfactory.com/tnk/cpp.weboff.main?app_id={app_id}&web_yn=Y
 | {app_id} | 매체 APP ID | string(32) | 매체별로 고정값(상수) 이다. (TNK 대시보드에서 확인 - App ID) |
 
 배너이미지
-- 아이콘
-- 띠배너
-- 정사각형
-  
-
+- 627x627  
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12354.png" >
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12355.png" >
+- 640x100  
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12356.png" >
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12357.png" >
+- 640x200  
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12358.png" >
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12359.png" >
+- 640x1320    
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12360.png" >
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12361.png" >
+- 960x640  
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12362.png" >
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12363.png" >
+- 1200x627   
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12364.png" >
+  <img src="https://cdn4.tnkfactory.com/tnk/shop/12365.png" >
+    
 ## 4. 테스트
 배너 게제 전 위의 URL을 통해 광고에 참여하고, 카카오페이 포인트가 정상적으로 적립되는지 확인합니다.  
 
