@@ -42,7 +42,7 @@ https://api2.tnkfactory.com/tnk/cpp.weboff.main?app_id={app_id}&web_yn=Y
 배너이미지
 - 627x627  
   <img src="https://cdn4.tnkfactory.com/tnk/shop/12354.png" >
-  <a href="https://cdn4.tnkfactory.com/tnk/shop/12354.png" download>다운로드</a>
+  <a href="https://cdn4.tnkfactory.com/tnk/shop/12354.png" target="_blank" download>다운로드</a>
   <img src="https://cdn4.tnkfactory.com/tnk/shop/12355.png" >
 - 640x100  
   <img src="https://cdn4.tnkfactory.com/tnk/shop/12356.png" >
