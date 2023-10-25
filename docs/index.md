@@ -20,9 +20,9 @@
 ![img](https://cdn4.tnkfactory.com/tnk/shop/12340.jpg)
 
 앱 등록이 끝나면 매체등록 버튼을 누릅니다.  
-이때 포인트 전환비율만 설정하고 저장을 누릅니다. (다른 설정값은 기본 값으로 두시면 됩니다.)  
+이때 포인트 전환비율은 50(고정값), 포인트 명칭은 카카오페이포인트(고정값)으로 설정하고 저장을 누릅니다. (다른 설정값은 기본 값으로 두시면 됩니다.)  
 
-![img](https://cdn4.tnkfactory.com/tnk/shop/12344.jpg)
+![img](https://cdn4.tnkfactory.com/tnk/shop/12376.jpg)
 
 이후 저희 담당자에게 연락하면 귀사 사이트를 카카오페이측에 확인 요청을 합니다.   
 카카오페이측에서 승인이 되면 이후 저희 담당자가 별도 연락을 드릴 것입니다.  
@@ -41,24 +41,23 @@ https://api2.tnkfactory.com/tnk/cpp.weboff.main?app_id={app_id}&web_yn=Y
 
 배너이미지
 - 627x627  
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12354.png" >
-  <a href="https://cdn4.tnkfactory.com/tnk/shop/12354.png" target="_blank" download>다운로드</a>
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12355.png" >
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12354.png)
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12355.png)
 - 640x100  
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12356.png" >
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12357.png" >
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12356.png)
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12357.png)
 - 640x200  
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12358.png" >
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12359.png" >
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12358.png)
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12359.png)
 - 640x1320    
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12360.png" >
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12361.png" >
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12360.png)
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12361.png)
 - 960x640  
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12362.png" >
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12363.png" >
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12362.png)
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12363.png)
 - 1200x627   
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12364.png" >
-  <img src="https://cdn4.tnkfactory.com/tnk/shop/12365.png" >
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12364.png)
+  ![img](https://cdn4.tnkfactory.com/tnk/shop/12365.png)
     
 ## 4. 테스트
 배너 게제 전 위의 URL을 통해 광고에 참여하고, 카카오페이 포인트가 정상적으로 적립되는지 확인합니다.  
