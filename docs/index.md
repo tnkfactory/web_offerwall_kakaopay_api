@@ -35,7 +35,7 @@
 
 - 혜택플러스 모바일 웹 충전소 접속 URL
 ```
-https://api2.tnkfactory.com/tnk/cpp.weboff.main?app_id={app_id}&web_yn=Y
+https://webfeed.tnkfactory.com/tnk/cpp.weboff.main?app_id={app_id}&web_yn=Y
 ```
 
 | **매크로** | **설명** | **최대 길이** | **비고** |
